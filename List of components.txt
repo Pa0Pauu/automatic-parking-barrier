@@ -1,0 +1,6 @@
+MAIN :
+- Arduino Uno
+- Servo mg90s / sg90
+- HC- SR04 Ultra Sonic
+
+total price : 105.000 Rp / 5,94 $ / 5,15 €
